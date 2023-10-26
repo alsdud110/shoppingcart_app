@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_shoppingcart/components/shoppingcart_detail.dart';
 import 'package:flutter_shoppingcart/components/shoppingcart_header.dart';
-import 'package:flutter_shoppingcart/constants.dart';
 import 'package:flutter_shoppingcart/theme.dart';
 
 void main() {
